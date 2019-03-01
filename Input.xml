@@ -1,0 +1,23 @@
+<Document>
+	<CustomerDetails>
+		<Customer>
+			<PersonalDetails>
+				<Name>VASANTHEN</Name>
+				<Phone>54327890758</Phone>
+				<Email>ann@xxx.com</Email>
+				<Dob>06/26/1995</Dob>
+			</PersonalDetails>
+			<Address>
+				<AddressLine1>21,Time Street</AddressLine1>
+				<AddressLine2>Greams Road</AddressLine2>
+				<AddressLine3>New York</AddressLine3>
+				<Phone>WWWWWW</Phone>
+			</Address>
+			<Education>
+				<Degree>M.B.A</Degree>
+				<Aggregate>7.36</Aggregate>
+				<YearOfCompletion>2014</YearOfCompletion>
+			</Education>
+		</Customer>
+	</CustomerDetails>
+</Document>
